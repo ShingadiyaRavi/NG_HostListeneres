@@ -1,0 +1,5 @@
+Task - 10
+
+HostListners:
+	This is used for the element event. This is called after the first method of the hostlister write. This work with the component as well as directives.
+	It need to import HostListener from the angular core library.it will help full to us and this is only work with the host component and other page it will don't work. so it is more powerful for the component base events.
